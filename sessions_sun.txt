@@ -1,0 +1,44 @@
+Session type: Expo Talk Demo
+Session name: AudioSeal: Proactive Detection of Voice Cloning with Localized Watermarking
+Session time: 1300 - 1400
+Place: Expo area
+
+Session type: Expo Talk Panel
+Session name: The Impact of Document Vectorisation, RAG, and Large Language Models in Financial Services: An insider view of how AI is set to change the way banks work
+Session time: 1300 - 1400
+Place: Expo area
+
+Session type: Expo Talk Panel
+Session name: Giving your Graph a Voice: Graph Representations and Large Language Models
+Session time: 1300 - 1400
+Place: Expo area
+
+Session type: Expo Talk Panel
+Session name: AutoGluon: AutoML at Your Fingertips
+Session time: 1300 - 1400
+Place: Expo area
+
+Session type: Expo Workshop
+Session name: Run PyTorch Models On Device
+Session time: 1430 - 1630
+Place: Expo area
+
+Session type: Expo Talk Panel
+Session name: Accelerating research in Private Federated Learning with the pfl-research simulation framework
+Session time: 1430 - 1530
+Place: Expo area
+
+Session type: Expo Talk Panel
+Session name: Automated Evaluation of LLM responses
+Session time: 1430 - 1530
+Place: Expo area
+
+Session type: Expo Talk Panel
+Session name: AI for software development at Google
+Session time: 1600 - 1700
+Place: Expo area
+
+Session type: Expo Talk Panel
+Session name: Merging Statistical, Causal, and Generative AI Techniques for Application Performance Monitoring
+Session time: 1600 - 1700
+Place: Expo area
